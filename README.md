@@ -1,4 +1,5 @@
 # hello-world
 a repository
 
-I like trains.
+CSE 360 Hello World git demo
+Anthony Fuentes
